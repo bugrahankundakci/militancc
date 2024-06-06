@@ -20,8 +20,15 @@ Merhaba! Ben Minik Militan. Daha çok veritabanı sistemleri ve oyun geliştirme
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## Şu Anda Bulunduğum Şirket
+
+- [For Development](https://discord.gg/fordevelopment)
+
 ## Şu Anda Çalıştığım Proje
 - **FiveM Paketleri**: FiveM için çeşitli oyun modları ve eklentiler geliştiriyorum. Bu projeler, oyunculara daha zengin ve çeşitli bir oyun deneyimi sunmayı amaçlıyor.
+
+- **Discord Botları**: Şuanlık Fiveme özel botlar yapıyorum. Bot içerikleri; Discord to SQL, Discord to Fivem ve Discord Yönetim gibi dallarda genişleyen yapılar tasarlıyorum.
+
 
 <p align="center">
   <a href="https://github.com/MinikMilitan" target="_blank">
