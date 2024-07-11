@@ -31,10 +31,10 @@ Merhaba! Ben Minik Militan. Daha çok veritabanı sistemleri ve oyun geliştirme
 
 
 <p align="center">
-  <a href="https://github.com/MinikMilitan" target="_blank">
+  <a href="https://github.com/militancc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/MinikMilitan" target="_blank">
+  <a href="https://www.instagram.com/militancc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
