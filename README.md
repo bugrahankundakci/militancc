@@ -3,6 +3,8 @@
 ## Hakkımda
 Merhaba! Ben Militan. Daha çok veritabanı sistemleri ve oyun geliştirme konularında uzmanım. Şu anda FiveM paketleri üzerinde çalışıyorum. Amacım, oyun geliştiricilerine ve oyunculara en iyi deneyimi sunmak. Lua, JavaScript, HTML5, CSS3, PHP gibi dillerde ve çeşitli veritabanı sistemlerinde geniş bir bilgiye sahibim.
 
+[![Discord Profilim](https://lanyard.cnrad.dev/api/571989790434787348)](https://discord.com/users/571989790434787348)
+
 ## Yeteneklerim
 ### Diller
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
